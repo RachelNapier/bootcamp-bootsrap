@@ -1,3 +1,7 @@
 .btn-success {
     background-color: pink;
 }
+
+.btn-success:hover {
+    background-color: gray;
+}
